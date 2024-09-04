@@ -1,5 +1,9 @@
-## Hi there 👋
-
+## Hi！我是kentozakiki 👋
+我喜欢旅行和探索生活，也喜欢剪辑视频，享受灵感迸发的瞬间。
+## 专业方面
+在大学系统地学习过C语言和C++语言，以及一些计算机的理论知识。自学了ui设计，目前正在参与一项教育有关的app项目，不管能否获奖都是我的一笔宝贵的实践财富。我对ui，产品以及前端有些兴趣。不过我的代码技术比较薄弱，实战经验也偏少，未来还有很长的路要走。
+## 规划与目标
+我会不断努力学习，未来会努力考取一份稳定有编制的工作或者争取互联网行业产品岗位。
 <!--
 **kentozakiki/kentozakiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
